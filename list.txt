@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Бервинов Мирон Васильевич
+=======
+George
+>>>>>>> a1f0ac1 (Everything is okay)
